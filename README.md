@@ -1,4 +1,5 @@
-# Luiz Gabriel : man_technologist:
+# Luiz Gabriel
 
 
 
+<img src="BadgeURLHere" https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white />
