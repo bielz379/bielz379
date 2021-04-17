@@ -1,6 +1,6 @@
 ## E aí, tudo beleza?? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-Apaixonado por tecnologias e resolver problemas. Eu sou um desenvolvedor Fullstack. No meu tempo livre me aventuro fazendo UX & UI bastantes diferentes.
+Apaixonado por tecnologias e por  resolver problemas. Eu sou um desenvolvedor Front-end. No meu tempo livre me aventuro no back-end com NodeJS e Express
 
 <a href="https://www.linkedin.com/in/luiz-gabriel-465a01206/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bielz.sx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
